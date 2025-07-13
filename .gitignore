@@ -1,0 +1,57 @@
+# 내장 Git 기능이 있는 IDE를 사용하는 경우, IDE 특정 파일을 무시하는 데 사용됩니다.
+.idea/
+.vscode/
+
+# Dart 및 Flutter 관련
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.last_commit_id
+.metadata
+.DS_Store
+.gradle/
+build/
+*.iml
+android/local.properties
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+web/
+pubspec.lock # 일반적으로 커밋하지 않음 (CI/CD 환경에서 특정 버전을 고정할 때 사용)
+
+# IDE에서 생성되는 로컬 파일 (예: Android Studio)
+*.iml
+.idea/workspace.xml
+.idea/libraries/
+.cxx/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.last_build_id
+.metadata
+.DS_Store
+.gradle
+/android/.gradle
+/ios/.symlinks
+/ios/.flutter-plugins
+/ios/.flutter-plugins-dependencies
+/ios/Flutter/.last_build_id
+/web
+/build
+
+# 플랫폼별 임시 파일
+/android/app/src/main/assets/flutter_assets
+/android/app/build
+/ios/build
+/windows/build
+/linux/build
+/macos/build
+
+# 기타
+*.log
+*~
+*.bak
+*.tmp
+*.swp

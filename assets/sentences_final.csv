@@ -1,0 +1,21 @@
+sentence_id,korean_meaning,tagalog_sentence,tagalog_pron_korean,cebuano_sentence,cebuano_pron_korean,tagalog_audio_filename,cebuano_audio_filename
+SENT001,우리는 당신들을 사랑해요.,Mahal namin kayo.,마할 나민 까요,Gihigugma namo kamo,기히국마 나모 까모,SENT001_tagalog.mp3,SENT001_cebuano.mp3
+SENT002,예수님 믿으세요,Manalig ka kay Hesus,마나릭 까 까이 헤수스,Motuó ka kang Hesus.,모뚜오 까 깡 헤수스,SENT002_tagalog.mp3,SENT002_cebuano.mp3
+SENT003,하나님은 사랑이십니다.,Ang Diyos ay pag-ibig,앙 디요스 아이 빡이빅,Ang Diyos gugma,앙 디요스 구그마,SENT003_tagalog.mp3,SENT003_cebuano.mp3
+SENT004,하나님께서 당신을 축복하시길!,Pagpalain ka ng Diyos!,빡빨라인 까 낭 디요스,Panalanginan ka sa Diyos!,빠나랑이난 까 사 디요스,SENT004_tagalog.mp3,SENT004_cebuano.mp3
+SENT005,하나님이 당신을 사랑하십니다.,Mahal ka ng Diyos.,마할 까 낭 디요스,Gihigugma ka sa Diyos,기히국마 까 사 디요스,SENT005_tagalog.mp3,SENT005_cebuano.mp3
+SENT006,예수님이 당신을 사랑하십니다.,Mahal ka ni Hesus,마할 까 니 헤수스,Gihigugma ka ni Hesus,기히국마 까 니 헤수스,SENT006_tagalog.mp3,SENT006_cebuano.mp3
+SENT007,안녕하세요,Kumusta po?,꾸무스타 뽀?,Kumusta?,꾸무스타?,SENT007_tagalog.mp3,SENT007_cebuano.mp3
+SENT008,좋은 아침입니다,Magandang umaga po!,마간당 우마가 뽀!,Maayong buntag!,마아용 분딱!,SENT008_tagalog.mp3,SENT008_cebuano.mp3
+SENT009,좋은 오후입니다,Magandang Hapon po,마간당 하뽄 뽀,Maayong Hapon,마아용 하뽄,SENT009_tagalog.mp3,SENT009_cebuano.mp3
+SENT010,좋은 저녁/밤입니다,Magandang gabi po!,마간당 가비 뽀!,Maayong gabii!,마아용 가비이!,SENT010_tagalog.mp3,SENT010_cebuano.mp3
+SENT011,환영합니다,Mabuhay!,마부하이!,Maayong adlaw!,마아용 아들라우!,SENT011_tagalog.mp3,SENT011_cebuano.mp3
+SENT012,매우 감사합니다,Maraming salamat po!,마라밍 살라맛 뽀!,Daghang salamat!,닥항 살라맛!,SENT012_tagalog.mp3,SENT012_cebuano.mp3
+SENT013,천만에요,Walang anuman po.,왈랑 아누만 뽀,Walay sapayan.,왈라이 사파얀,SENT013_tagalog.mp3,SENT013_cebuano.mp3
+SENT014,네,O po,오 뽀,Oo,오오,SENT014_tagalog.mp3,SENT014_cebuano.mp3
+SENT015,아니오,Hindi po,힌디 뽀,Dili,딜리,SENT015_tagalog.mp3,SENT015_cebuano.mp3
+SENT016,죄송합니다 / 실례합니다,Pasensya na po,빠센샤 나 뽀,Pasayloa ko,빠싸일로아 꼬,SENT016_tagalog.mp3,SENT016_cebuano.mp3
+SENT017,괜찮아요,Ayos lang,아요스 랑,Okay ra,오께이 라,SENT017_tagalog.mp3,SENT017_cebuano.mp3
+SENT018,잘가 다시 만나,Paalam po. Magkita tayo ulit,빠알람 뽀. 막끼따 따요 울릿,Babay. Magkita ta usab,바바이. 막기따 따 우삽,SENT018_tagalog.mp3,SENT018_cebuano.mp3
+SENT019,이름이 뭐예요?,Anong pangalan mo?,아농 빵알란 모,Unsay ngalan nimo?,운사이 응알란 니모?SENT019_tagalog.mp3,SENT019_cebuano.mp3
+SENT020,몇 살입니까?,ilang taon ka na?,일랑 따온 까 나,Pila na imong edad?,필라 나 이몽 에닫?SENT020_tagalog.mp3,SENT020_cebuano.mp3
