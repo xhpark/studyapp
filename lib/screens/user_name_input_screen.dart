@@ -62,7 +62,7 @@ class _UserNameInputScreenState extends State<UserNameInputScreen> {
 
   // 공통 비밀번호
   // 이미 문자열 리터럴이므로 'const'를 붙일 필요는 없습니다. (성능 영향 미미)
-  final String _commonPassword = '0821';
+  final String _commonPassword = '';
 
   void _authenticateAndSaveUserName() async {
     final String enteredName = _nameController.text.trim();
